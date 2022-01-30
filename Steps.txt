@@ -1,0 +1,20 @@
+First Install Node.js Recommended Version https://nodejs.org/en/
+Unzip the file to desktop
+
+You have to install mongo db or use mongo atlas make a database named userdirectory which has a collection users
+check the screenshot 
+
+Dont install any dependencies first,
+because all the dependencies are mentioned in the package.json and package-lock.json
+So at first 
+run npm start
+if all the depedencies are installed automatically then its fine if not
+In VS Code open Terminal cd attendence-app run - npm install react
+once react is installed 
+Again run - npm start if it throughs error
+in the terminal cd attendence-app run- npm install axios react-select
+
+Similarly Open another Terminal Side-by-Side cd server
+once you are in the server directory 
+npm install express cors mongodb mongoose 
+after that run in terminal cd server run - node server

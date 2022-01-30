@@ -1,0 +1,5 @@
+Multitrnant conatiner database:localhost:1521
+
+Pluggable database:localhost:1521/XEPDB1
+
+EM Express URL:http://localhost:5500/em

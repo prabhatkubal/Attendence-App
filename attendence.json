@@ -1,0 +1,705 @@
+[{
+  "_id": {
+    "$oid": "61261db0a6747d5f3c9ac166"
+  },
+  "program": "Master in Science Computer Science (MSc CS)",
+  "class": "FY",
+  "division": "A",
+  "Course": "Artificial Intelligence",
+  "date": "05-08-2021",
+  "time": "12:00",
+  "file": [
+    {
+      "Full_Name": "Bhagwat Kunal",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Deshmukh Amey Sunil",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Dubey Madhuri Ghanshyam",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Gangan Ashish",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Gholap Aman Arun",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Hyalinge Sameer Ganesh",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Jadhav kirti vijendra",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Kale Raksha Subhash",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Kamble Kunal Milind",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Khade Aditi Nitin",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Khandelwal Srishti",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Kubal prabhat santosh",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Kulkarni Gauri Sanjay",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Mane Prathamesh Dilip",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Mane Yash Vivek",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Mansuri Farhan",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Mudhaliar Pushppavisha Mani",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Naik Tejas Suhas",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Padyar Chinmay Jayant",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Parab Atharv Sanjay",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Patil Prasad Hirachandra",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Patil Vishakha Dilip",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Pawar Prasad Prakash",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Poriya Kishan Ghanshyam",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Pradhan Chinmay Rajendra",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Ramane Komal Ashok",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Rao Rishikesh",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Saini Arun Dharmraj",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Sarang Aditya Prabhakar",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Shaikh Aryan Zameer",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Shaikh Ayesha AbdulBasheer",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Shetty Chirag Vijay",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Singh Aditya Vinod",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Singh Anchal",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Sonde Arfat Masib",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Syed kazim mehdi",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Thalkar varad Rajesh",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Tiwari Divya",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Valluparambil Akhil Reghu",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Vishwakarma Khushboo Radheshyam",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Walanj Manali Mangesh",
+      "Presentee": "Present"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6127b1f77a099740327d76de"
+  },
+  "program": "Master in Science Computer Science (MSc CS)",
+  "class": "FY",
+  "division": "A",
+  "Course": "Artificial Intelligence",
+  "date": "06-08-2021",
+  "time": "12:00",
+  "file": [
+    {
+      "Full_Name": "Bhagwat Kunal",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Deshmukh Amey Sunil",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Dubey Madhuri Ghanshyam",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Gangan Ashish",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Gholap Aman Arun",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Hyalinge Sameer Ganesh",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Jadhav kirti vijendra",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Kale Raksha Subhash",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Kamble Kunal Milind",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Khade Aditi Nitin",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Khandelwal Srishti",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Kubal prabhat santosh",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Kulkarni Gauri Sanjay",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Mane Prathamesh Dilip",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Mane Yash Vivek",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Mansuri Farhan",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Mudhaliar Pushppavisha Mani",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Naik Tejas Suhas",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Padyar Chinmay Jayant",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Parab Atharv Sanjay",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Patil Prasad Hirachandra",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Patil Vishakha Dilip",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Pawar Prasad Prakash",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Poriya Kishan Ghanshyam",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Pradhan Chinmay Rajendra",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Ramane Komal Ashok",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Rao Rishikesh",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Saini Arun Dharmraj",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Sarang Aditya Prabhakar",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Shaikh Aryan Zameer",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Shaikh Ayesha AbdulBasheer",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Shetty Chirag Vijay",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Singh Aditya Vinod",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Singh Anchal",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Sonde Arfat Masib",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Syed kazim mehdi",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Thalkar varad Rajesh",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Tiwari Divya",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Valluparambil Akhil Reghu",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Vishwakarma Khushboo Radheshyam",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Walanj Manali Mangesh",
+      "Presentee": "Present"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6127b20f7a099740327d76df"
+  },
+  "program": "Master in Science Computer Science (MSc CS)",
+  "class": "FY",
+  "division": "A",
+  "Course": "Artificial Intelligence",
+  "date": "07-08-2021",
+  "time": "12:00",
+  "file": [
+    {
+      "Full_Name": "Bhagwat Kunal",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Deshmukh Amey Sunil",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Dubey Madhuri Ghanshyam",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Gangan Ashish",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Gholap Aman Arun",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Hyalinge Sameer Ganesh",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Jadhav kirti vijendra",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Kale Raksha Subhash",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Kamble Kunal Milind",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Khade Aditi Nitin",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Khandelwal Srishti",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Kubal prabhat santosh",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Kulkarni Gauri Sanjay",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Mane Prathamesh Dilip",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Mane Yash Vivek",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Mansuri Farhan",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Mudhaliar Pushppavisha Mani",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Naik Tejas Suhas",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Padyar Chinmay Jayant",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Parab Atharv Sanjay",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Patil Prasad Hirachandra",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Patil Vishakha Dilip",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Pawar Prasad Prakash",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Poriya Kishan Ghanshyam",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Pradhan Chinmay Rajendra",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Ramane Komal Ashok",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Rao Rishikesh",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Saini Arun Dharmraj",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Sarang Aditya Prabhakar",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Shaikh Aryan Zameer",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Shaikh Ayesha AbdulBasheer",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Shetty Chirag Vijay",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Singh Aditya Vinod",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Singh Anchal",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Sonde Arfat Masib",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Syed kazim mehdi",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Thalkar varad Rajesh",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Tiwari Divya",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Valluparambil Akhil Reghu",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Vishwakarma Khushboo Radheshyam",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Walanj Manali Mangesh",
+      "Presentee": "Present"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6127b2207a099740327d76e0"
+  },
+  "program": "Master in Science Computer Science (MSc CS)",
+  "class": "FY",
+  "division": "A",
+  "Course": "Artificial Intelligence",
+  "date": "08-08-2021",
+  "time": "12:00",
+  "file": [
+    {
+      "Full_Name": "Bhagwat Kunal",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Deshmukh Amey Sunil",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Dubey Madhuri Ghanshyam",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Gangan Ashish",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Gholap Aman Arun",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Hyalinge Sameer Ganesh",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Jadhav kirti vijendra",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Kale Raksha Subhash",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Kamble Kunal Milind",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Khade Aditi Nitin",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Khandelwal Srishti",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Kubal prabhat santosh",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Kulkarni Gauri Sanjay",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Mane Prathamesh Dilip",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Mane Yash Vivek",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Mansuri Farhan",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Mudhaliar Pushppavisha Mani",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Naik Tejas Suhas",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Padyar Chinmay Jayant",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Parab Atharv Sanjay",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Patil Prasad Hirachandra",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Patil Vishakha Dilip",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Pawar Prasad Prakash",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Poriya Kishan Ghanshyam",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Pradhan Chinmay Rajendra",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Ramane Komal Ashok",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Rao Rishikesh",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Saini Arun Dharmraj",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Sarang Aditya Prabhakar",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Shaikh Aryan Zameer",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Shaikh Ayesha AbdulBasheer",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Shetty Chirag Vijay",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Singh Aditya Vinod",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Singh Anchal",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Sonde Arfat Masib",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Syed kazim mehdi",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Thalkar varad Rajesh",
+      "Presentee": "Absent"
+    },
+    {
+      "Full_Name": "Tiwari Divya",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Valluparambil Akhil Reghu",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Vishwakarma Khushboo Radheshyam",
+      "Presentee": "Present"
+    },
+    {
+      "Full_Name": "Walanj Manali Mangesh",
+      "Presentee": "Present"
+    }
+  ]
+}]
